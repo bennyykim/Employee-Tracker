@@ -1,1 +1,1 @@
-# Employee-Tracker
+An employee tracker that will get department, roles, and employees using the console.
